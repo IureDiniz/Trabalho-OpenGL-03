@@ -49,7 +49,7 @@ def tela():
 def teclado(key, x, y):
     global rotX, rotY, rotZ, ang
 
-    # PROGRAMA SOFRE GIMBAL LOCK
+    
     if key == b'x':
         ang[0] += 45
         glutPostRedisplay()

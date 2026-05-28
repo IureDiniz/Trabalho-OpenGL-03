@@ -9,3 +9,9 @@ m3:
 
 m4: 
 	OpenGL/bin/python missao4.py
+
+m5: 
+	OpenGL/bin/python missao5.py
+
+m6: 
+	OpenGL/bin/python missao6.py
